@@ -19,32 +19,26 @@
         
         <div class="row  pt-5">
             <div class="col-4">
-                <img src="/image/post1.jpg" style='width:400px'/> 
+                <img src="/image/post1.jpg" style='width:400px' alt="post1"/> 
             </div>
             <div class="col-4">
-                <img src="/image/post2.jpg" style='width:400px'/> 
+                <img src="/image/post2.jpg" style='width:400px' alt="post2"/> 
             </div>
             <div class="col-4 ">
-                <img src="/image/post3.jpg" style='width:400px'/> 
+                <img src="/image/post3.jpg" style='width:400px' alt="post3"/> 
             </div>
 
             <div class="col-4 ">
-                <img src="/image/post4.jpg" style='width:400px'/> 
+                <img src="/image/post6.jpg" style='width:400px' alt="post6"/> 
             </div>
             <div class="col-4 ">
-                <img src="/image/post5.jpg" style='width:400px'/> 
+                <img src="/image/post5.jpg" style='width:400px' alt="post5"/> 
             </div>
             <div class="col-4 ">
-                <img src="/image/post6.jpg" style='width:400px'/> 
+                <img src="/image/post4.jpg" style='width:400px' alt="post4"/> 
             </div>
             
-        </div>
-
-
-
-
-
-          
+        </div>          
         </div>
     </div>
 
