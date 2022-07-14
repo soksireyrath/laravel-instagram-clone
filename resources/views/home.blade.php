@@ -3,8 +3,8 @@
 @section('content')
 <div class="container">
     <div class="row">
-        <div class="col-2">
-            <img src="/image/profile.svg" style="width:140px;" class="rounded-circle" alt="profile image" />
+        <div class="col-2 pt-2">
+            <img src="/image/profile.svg" style="width:150px;" class="rounded-circle" alt="profile image" />
         </div>
 
         <div class="col-9 ">
@@ -17,7 +17,9 @@
                 <div class="m-3"><strong>245</strong>followers</div>
                 <div class="m-3"><strong>147</strong>following</div>
             </div>
-            <div class="pt-1">Dream Won't Work Unless You DO </div>
+            <div class="pt-1">{{$user -> profile ->title}} </div>
+            <div class="pt-1">{{$user -> profile -> description}} </div>
+            <div class="pt-1"><a href="#">{{$user -> profile -> url}}</a> </div>
         </div>
 
         <div class="row  pt-5">
